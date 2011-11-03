@@ -1,7 +1,7 @@
 {
     "name": "q-wrap",
     "description": "Utility library to wrap async functions with last callback argument to promise returning functions",
-    "version": "0.0.1",
+    "version": "0.0.0",
     "author": {
         "name": "Sergey Belov",
         "email": "peimei@ya.ru",
